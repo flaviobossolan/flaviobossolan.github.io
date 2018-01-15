@@ -10,8 +10,8 @@ After getting tired of having recommendation of movies I have already watched I 
 I know there are tons of recommender systems out there, I just wanted something tailored for my needs, so I built a simple one, but
 with that glaring detail that is forgotten by many systems: It will never recommend me a movie I have already watched!
 
-Here is the link for the [github repository] (https://github.com/flaviobossolan/Recommender).
+Here is the link for the [github repository](https://github.com/flaviobossolan/Recommender).
 
-I have an ipython notebook in Kaggle with more recent data in [this link]. (https://www.kaggle.com/flaviobossolan/simple-efficient-movie-recommender/)
+I have an ipython notebook in Kaggle with more recent data in [this link](https://www.kaggle.com/flaviobossolan/simple-efficient-movie-recommender/).
 
 That's the idea: to solve even the simplest problems with data...
